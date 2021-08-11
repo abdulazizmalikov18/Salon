@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<a href="https://ibb.co/TmG60Bp"><img src="https://i.ibb.co/18N1Xfh/Screenshot-1628669772.png" alt="Screenshot-1628669772" border="0"></a>
+<a href="https://ibb.co/TmG60Bp"><img src="https://i.ibb.co/18N1Xfh/Screenshot-1628669772.png" alt="Screenshot-1628669772" border="0" width=200></a>
 
 ## Getting Started
 
