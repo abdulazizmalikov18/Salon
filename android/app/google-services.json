@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "544329039602",
+    "project_id": "imtihon-2f817",
+    "storage_bucket": "imtihon-2f817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544329039602:android:279404f60b474a21f91a6b",
+        "android_client_info": {
+          "package_name": "com.example.imtihon1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544329039602-1c98hfrc9vd4kcemsqcir2pr97p7b617.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imtihon1",
+            "certificate_hash": "332dfd6c2bcea0e589d3ba1ea42192fe207982bf"
+          }
+        },
+        {
+          "client_id": "544329039602-3bp2vqau8ua6o49qqenccq5286mmu8li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArbIzm8X3uP--dvGB0_NapVbdI02-gpNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544329039602-3bp2vqau8ua6o49qqenccq5286mmu8li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

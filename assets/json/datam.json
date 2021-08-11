@@ -1,0 +1,80 @@
+{
+  "Salon": [{
+    "id": 1,
+    "num": " 4.5/5",
+    "name": "Cute Cut - Salon",
+    "img": "https://www.grandactive.ru/UploadedFiles/2020/2020-10/bfb00be8-6d48-46ff-b9dd-156e3862d63b.jpeg",
+    "km": "1.8 km away",
+    "imges": [
+      "https://www.grandactive.ru/UploadedFiles/2020/2020-10/bfb00be8-6d48-46ff-b9dd-156e3862d63b.jpeg",
+      "https://mykaleidoscope.ru/uploads/posts/2020-02/1581957152_20-p-manikyurnie-saloni-v-pastelnikh-tonakh-45.jpg",
+      "https://avatars.mds.yandex.net/get-altay/1676973/2a0000016893beaf7b5dea298edf60abdf9a/XXL"
+    ]
+  }, {
+    "id": 2,
+    "num": " 5/5",
+    "name": "Go Go - Hair Salon",
+    "img": "https://avatars.mds.yandex.net/get-altay/1633000/2a0000016939b3060d971a5b8de45a65d546/XXL",
+    "km": "1.9 km away",
+    "imges": [
+      "https://avatars.mds.yandex.net/get-altay/1633000/2a0000016939b3060d971a5b8de45a65d546/XXL",
+      "https://i1.photo.2gis.com/images/branch/30/4222124696743638_a08c.jpg",
+      "https://mykaleidoscope.ru/uploads/posts/2020-02/1581957185_17-p-manikyurnie-saloni-v-pastelnikh-tonakh-32.jpg"
+    ]
+  }, {
+    "id": 3,
+    "num": " 4.9/5",
+    "name": "Go Go - Hair Salon",
+    "img": "https://www.grandactive.ru/UploadedFiles/2020/2020-10/bfb00be8-6d48-46ff-b9dd-156e3862d63b.jpeg",
+    "km": "2.6 km away",
+    "imges": [
+      "https://www.grandactive.ru/UploadedFiles/2020/2020-10/bfb00be8-6d48-46ff-b9dd-156e3862d63b.jpeg",
+      "http://www.myhome.ru/uploads/public/idea/6/53263/interiorpublic/5881/1920x1080resize_interiorpublic5881_99_1405388644.jpg",
+      "https://i4.photo.2gis.com/images/branch/30/4222124693943310_a28f.jpg"
+    ]
+  }, {
+    "id": 4,
+    "num": " 4.8/5",
+    "name": "Go Go - Hair Salon",
+    "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/93572990160561.Y3JvcCwxNTE4LDExODgsMjAzLDA.jpg",
+    "km": "0.8 km away",
+    "imges": [
+      "https://mir-s3-cdn-cf.behance.net/projects/max_808/93572990160561.Y3JvcCwxNTE4LDExODgsMjAzLDA.jpg",
+      "https://8-img.onrealt.ru/files/07-2020/27/e2/92/moskva-kypit-torgovuyu-ploshchad-lesnaya-ulitca-10-16-778589701.jpg",
+      "https://i1.photo.2gis.com/images/branch/30/4222124698924126_fa3b.jpg"
+    ]
+  }, {
+    "id": 5,
+    "num": " 4.3/5",
+    "name": "Go Go - Hair Salon",
+    "img": "https://archcloud.ru/uploads/img/corp/beauty/2016_prive7_khamovniki/05.jpg",
+    "km": "1.6 km away",
+    "imges": [
+      "https://archcloud.ru/uploads/img/corp/beauty/2016_prive7_khamovniki/05.jpg",
+      "https://i8.photo.2gis.com/images/branch/32/4503599633378308_e2a0.jpg",
+      "https://www.divandi.ru/public/images/db/design_photo/image640/4/5/2/3/8.jpg"
+    ]
+  }, {
+    "id": 6,
+    "num": " 4.9/5",
+    "name": "Go Go - Hair Salon",
+    "img": "https://images.ukrsalon.com.ua/files/1/5605/12473829/original/maxresdefault_56ce59f9a2a150a107a5458ecd4dc4a4.jpg",
+    "km": "1.6 km away",
+    "imges": [
+      "https://images.ukrsalon.com.ua/files/1/5605/12473829/original/maxresdefault_56ce59f9a2a150a107a5458ecd4dc4a4.jpg",
+      "https://www.perspectiva-design.com/wp-content/uploads/2020/01/19.jpg",
+      "https://p1.zoon.ru/1/5/5eea0c6657ab6e15604504d9_5efb5565ea21e.jpg"
+    ]
+  }, {
+    "id": 7,
+    "num": " 5/5",
+    "name": "Go Go - Hair Salon",
+    "img": "https://p1.zoon.ru/preview/xh78FWy6bZkcktuD47k0kQ/1920x1080x75/1/7/f/original_52ab0de240c088ec1b8b5405_5ee0ceee72e9c.jpg",
+    "km": "1.6 km away",
+    "imges": [
+      "https://p1.zoon.ru/preview/xh78FWy6bZkcktuD47k0kQ/1920x1080x75/1/7/f/original_52ab0de240c088ec1b8b5405_5ee0ceee72e9c.jpg",
+      "https://www.grandactive.ru/UploadedFiles/2020/2020-10/bfb00be8-6d48-46ff-b9dd-156e3862d63b.jpeg",
+      "https://static.cashmere.ru/images/tilda/3575585/images/tild6338-6365-4664-b738-306661383664__2r6a0265.jpg"
+    ]
+  }]
+}
